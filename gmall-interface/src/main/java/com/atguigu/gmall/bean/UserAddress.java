@@ -1,4 +1,4 @@
-package com.atguigu.bean;
+package com.atguigu.gmall.bean;
 
 import java.io.Serializable;
 
